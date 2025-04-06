@@ -1,6 +1,6 @@
-return {
-    "abc123",
-    "def456",
-    "FCDQGZ3Q1US3Z8V4S82N",
-    "nigger123"
+{
+  "valid_keys": [
+    "KEY1234567890ABCDEF",
+    "ANOTHERKEY123456789"
+  ]
 }
