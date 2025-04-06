@@ -13,7 +13,8 @@
     "ZOZ20Z7OZB85NDURLLOQ",
     "0VH5TX6D82BO18XLMBL5",
     "QB7WE4HOW4431IPA5FPH",
-    "7JO591W9VEHGCXU8565A"
+    "7JO591W9VEHGCXU8565A",
+    "AUNIS8M11W2QNB4RPCZT"
   ],
   "key_info": {
     "KEY1234567890ABCDEF": {
@@ -77,7 +78,12 @@
       "generatedAt": 1743971749269,
       "redeemed": false,
       "rarity": "Rare"
+    },
+    "AUNIS8M11W2QNB4RPCZT": {
+      "generatedAt": 1743982093370,
+      "redeemed": false,
+      "rarity": "Uncommon"
     }
   },
-  "last_key_generation": 1743971749269
+  "last_key_generation": 1743982093370
 }
