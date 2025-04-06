@@ -7,7 +7,8 @@
     "BIANYCXJLLEE8AEHORKW",
     "JHD706SOL27TEX118N1U",
     "72H1COK04HJF4LQ7XTXB",
-    "20V8HEFMSQLHM025B81D"
+    "20V8HEFMSQLHM025B81D",
+    "NUOKVT0OBJ3P3386TCP7"
   ],
   "key_info": {
     "KEY1234567890ABCDEF": {
@@ -41,6 +42,11 @@
     "20V8HEFMSQLHM025B81D": {
       "generatedAt": 1743967885997,
       "redeemed": false
+    },
+    "NUOKVT0OBJ3P3386TCP7": {
+      "generatedAt": 1743969117685,
+      "redeemed": false,
+      "rarity": "Common"
     }
   }
 }
