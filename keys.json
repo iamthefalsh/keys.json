@@ -6,7 +6,8 @@
     "F1TIOPEQUVUVGDSLCJBV",
     "BIANYCXJLLEE8AEHORKW",
     "JHD706SOL27TEX118N1U",
-    "72H1COK04HJF4LQ7XTXB"
+    "72H1COK04HJF4LQ7XTXB",
+    "20V8HEFMSQLHM025B81D"
   ],
   "key_info": {
     "KEY1234567890ABCDEF": {
@@ -35,6 +36,10 @@
     },
     "72H1COK04HJF4LQ7XTXB": {
       "generatedAt": 1743966580340,
+      "redeemed": false
+    },
+    "20V8HEFMSQLHM025B81D": {
+      "generatedAt": 1743967885997,
       "redeemed": false
     }
   }
