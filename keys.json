@@ -5,7 +5,8 @@
     "HLEM6BB2UR1DX0FQRJJ2",
     "F1TIOPEQUVUVGDSLCJBV",
     "BIANYCXJLLEE8AEHORKW",
-    "JHD706SOL27TEX118N1U"
+    "JHD706SOL27TEX118N1U",
+    "72H1COK04HJF4LQ7XTXB"
   ],
   "key_info": {
     "KEY1234567890ABCDEF": {
@@ -26,6 +27,14 @@
     },
     "BIANYCXJLLEE8AEHORKW": {
       "generatedAt": 1743966442764,
+      "redeemed": false
+    },
+    "JHD706SOL27TEX118N1U": {
+      "generatedAt": 1743966579089,
+      "redeemed": false
+    },
+    "72H1COK04HJF4LQ7XTXB": {
+      "generatedAt": 1743966580340,
       "redeemed": false
     }
   }
