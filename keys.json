@@ -11,7 +11,8 @@
     "NUOKVT0OBJ3P3386TCP7",
     "UTNG3TT4BVEWDAOXOI10",
     "ZOZ20Z7OZB85NDURLLOQ",
-    "0VH5TX6D82BO18XLMBL5"
+    "0VH5TX6D82BO18XLMBL5",
+    "QB7WE4HOW4431IPA5FPH"
   ],
   "key_info": {
     "KEY1234567890ABCDEF": {
@@ -65,6 +66,11 @@
       "generatedAt": 1743970392502,
       "redeemed": false,
       "rarity": "Common"
+    },
+    "QB7WE4HOW4431IPA5FPH": {
+      "generatedAt": 1743970397601,
+      "redeemed": false,
+      "rarity": "Uncommon"
     }
   }
 }
