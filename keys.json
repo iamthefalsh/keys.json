@@ -12,7 +12,8 @@
     "UTNG3TT4BVEWDAOXOI10",
     "ZOZ20Z7OZB85NDURLLOQ",
     "0VH5TX6D82BO18XLMBL5",
-    "QB7WE4HOW4431IPA5FPH"
+    "QB7WE4HOW4431IPA5FPH",
+    "7JO591W9VEHGCXU8565A"
   ],
   "key_info": {
     "KEY1234567890ABCDEF": {
@@ -71,6 +72,12 @@
       "generatedAt": 1743970397601,
       "redeemed": false,
       "rarity": "Uncommon"
+    },
+    "7JO591W9VEHGCXU8565A": {
+      "generatedAt": 1743971749269,
+      "redeemed": false,
+      "rarity": "Rare"
     }
-  }
+  },
+  "last_key_generation": 1743971749269
 }
