@@ -1,7 +1,4 @@
 {
-  "valid_keys": [
-    "ABC123",
-    "DEF456",
-    "GHI789"
-  ]
+  "valid_keys": [],
+  "redeemed_keys": {}
 }
