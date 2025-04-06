@@ -9,7 +9,8 @@
     "72H1COK04HJF4LQ7XTXB",
     "20V8HEFMSQLHM025B81D",
     "NUOKVT0OBJ3P3386TCP7",
-    "UTNG3TT4BVEWDAOXOI10"
+    "UTNG3TT4BVEWDAOXOI10",
+    "ZOZ20Z7OZB85NDURLLOQ"
   ],
   "key_info": {
     "KEY1234567890ABCDEF": {
@@ -53,6 +54,11 @@
       "generatedAt": 1743969222891,
       "redeemed": false,
       "rarity": "Uncommon"
+    },
+    "ZOZ20Z7OZB85NDURLLOQ": {
+      "generatedAt": 1743970387748,
+      "redeemed": false,
+      "rarity": "Common"
     }
   }
 }
