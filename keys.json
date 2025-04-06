@@ -4,6 +4,29 @@
     "ANOTHERKEY123456789",
     "HLEM6BB2UR1DX0FQRJJ2",
     "F1TIOPEQUVUVGDSLCJBV",
-    "BIANYCXJLLEE8AEHORKW"
-  ]
+    "BIANYCXJLLEE8AEHORKW",
+    "JHD706SOL27TEX118N1U"
+  ],
+  "key_info": {
+    "KEY1234567890ABCDEF": {
+      "generatedAt": 1743966442764,
+      "redeemed": false
+    },
+    "ANOTHERKEY123456789": {
+      "generatedAt": 1743966442764,
+      "redeemed": false
+    },
+    "HLEM6BB2UR1DX0FQRJJ2": {
+      "generatedAt": 1743966442764,
+      "redeemed": false
+    },
+    "F1TIOPEQUVUVGDSLCJBV": {
+      "generatedAt": 1743966442764,
+      "redeemed": false
+    },
+    "BIANYCXJLLEE8AEHORKW": {
+      "generatedAt": 1743966442764,
+      "redeemed": false
+    }
+  }
 }
