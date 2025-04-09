@@ -16,7 +16,8 @@
     "7JO591W9VEHGCXU8565A",
     "AUNIS8M11W2QNB4RPCZT",
     "Q8ZC8HTBX715O4M3CO9V",
-    "JS0PZZG39MPANS2IU3I7"
+    "JS0PZZG39MPANS2IU3I7",
+    "YQAEJ6KNH0NZWZN2C19F"
   ],
   "key_info": {
     "KEY1234567890ABCDEF": {
@@ -95,7 +96,12 @@
       "generatedAt": 1744206002204,
       "redeemed": false,
       "rarity": "Common"
+    },
+    "YQAEJ6KNH0NZWZN2C19F": {
+      "generatedAt": 1744239646357,
+      "redeemed": false,
+      "rarity": "Common"
     }
   },
-  "last_key_generation": 1744206002204
+  "last_key_generation": 1744239646357
 }
